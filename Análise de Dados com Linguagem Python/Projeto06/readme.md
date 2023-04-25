@@ -1,6 +1,6 @@
 # Projeto 06
 
-Neste Projeto será apresentados os principais Conceitos Estatísticos para Análise de Dados.
+Neste Projeto serão apresentados os principais Conceitos Estatísticos para Análise de Dados.
 
  
 - Cáculo de Frequência:
