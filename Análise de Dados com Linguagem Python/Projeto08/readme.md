@@ -2,8 +2,12 @@
 
 Neste projeto serão aplicados os conceitos de Engenheria de Atributos.
 
-    Definição: Engenharia de Atributos, também chamada de Engenharia de Recursos, é uma técnica de análise de dados que aproveita os dados para criar novas variáveis que não estão no conjunto de dados.
-    A Engenharia de Atributos permite produzir novos recursos para a análise de dados, com o objetivo de simplificar e acelerar as tranformações de dados, além de também permitir compreender os dados de diferentes perspectivas. 
+Definição: Engenharia de Atributos, também chamada de Engenharia de Recursos, 
+é uma técnica de análise de dados que aproveita os dados para criar novas variáveis 
+que não estão no conjunto de dados.
+A Engenharia de Atributos permite produzir novos recursos para a análise de dados, com 
+o objetivo de simplificar e acelerar as tranformações de dados, além de também permitir 
+compreender os dados de diferentes perspectivas. 
 
 ### Técnicas mais comuns de Engenharia de Atributos
 
@@ -30,9 +34,9 @@ Técnica Avançadas:
 
 ## Descrição do Problema:
 
-Neste projeto será abordadas atividades de engenharia de  tributos em um cenário onde a precisão é requisito mandatório: dados médicos.
-O projeto irá abranger atividades de todo o processo de análise de dados.
+Neste projeto serão abordadas atividades de engenharia de  tributos em um cenário onde a precisão é requisito mandatório: dados médicos.
 
+O projeto irá abranger atividades de todo o processo de análise de dados.
 A análise será no sentido de identificar os pacientes diabéticos de alto risco por meio de estratificação de risco de registros médicos eletrônicos. Para a análise será usados registros eletrônicos de dados médicos, como resultados dos exames, nível de insulina, diagnóstico de outras doenças, etc...
 
 #
